@@ -15,5 +15,6 @@ See also: https://cmusatyalab.github.io/openface/
 
 
 slide for CPE Talk2
+4 April 2019
 
 https://drive.google.com/file/d/1fzV1SaSH-TWB6MgW-cUR7fL77vRx-YfY/view?usp=sharing
